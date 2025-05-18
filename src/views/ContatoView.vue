@@ -24,9 +24,9 @@
       <div class="text-center">
         <h2 class="text-2xl font-semibold mb-2">Redes Sociais</h2>
         <div class="flex justify-center gap-6 text-pink-700 text-xl">
-          <a href="https://www.instagram.com" target="_blank" class="hover:text-pink-900">Instagram</a>
-          <a href="https://www.linkedin.com" target="_blank" class="hover:text-pink-900">LinkedIn</a>
-          <a href="https://github.com" target="_blank" class="hover:text-pink-900">GitHub</a>
+          <a href="https://www.instagram.com/barbaraa.rebechi" target="_blank" class="hover:text-pink-900">Instagram</a>
+          <a href="https://www.linkedin.com/in/barbara-rebechi" target="_blank" class="hover:text-pink-900">LinkedIn</a>
+          <a href="https://github.com/barbsrebechi" target="_blank" class="hover:text-pink-900">GitHub</a>
         </div>
       </div>
     </div>
@@ -39,5 +39,3 @@ export default {
 };
 </script>
 
-<style scoped>
-</style>
